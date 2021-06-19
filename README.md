@@ -1,10 +1,6 @@
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+Atualmente trabalho como Analista de Suporte em uma empresa de automação comercial. Comecei a me desenvolver em programação no meu curso técnico em 2014 nas linguagens C e Java (OOP). No ano de 2016 tive a oportunidade de participar da OBI (Olimpíada Brasileira de Informática), onde atingi a 159º colocação entre 1367 participantes. Ainda no curso técnico, também, aprendi sobre banco de dados e linguagens web (HTML, CSS, JavaScript e PHP). Hoje estou buscando o meu primeiro emprego como desenvolvedor WEB.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cesarapires)
 
