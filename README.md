@@ -1,5 +1,5 @@
 
-Atualmente trabalho como Analista Programador em uma empresa de automação comercial. Comecei a me desenvolver em programação no meu curso técnico em 2014 nas linguagens C e Java (OOP). No ano de 2016 tive a oportunidade de participar da OBI (Olimpíada Brasileira de Informática), onde atingi a 159º colocação entre 1367 participantes. Ainda no curso técnico, também, aprendi sobre banco de dados e linguagens web (HTML, CSS, JavaScript e PHP). Já na faculdade realizei projetos utilizando Python. Meu último projeto pessoal foi o desenvolvimento de um ERP para o controle de estoque de uma loja usando Laravel. Hoje estou buscando o meu primeiro emprego como desenvolvedor WEB.
+Desenvolvedor Back-End - PHP na Delta Global S.A. empresa do ramo de  assistência automotiva especializada em frotas com mais de 10 mil atendimentos mensais. No meu curso técnico durante o  ano de 2016 tive a oportunidade de participar da OBI (Olimpíada Brasileira de Informática), onde atingi a 159º colocação entre 1367 participantes. Ainda no curso técnico, foi onde tive o meu primeiro contato com a área de desenvolvimento e aprendi sobre banco de dados (MySQL) e linguagens web (HTML, CSS, JavaScript e PHP). Meu último projeto pessoal foi um ERP para o controle de estoque de uma loja usando Laravel.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cesarapires)
 
