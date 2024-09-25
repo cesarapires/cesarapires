@@ -1,3 +1,5 @@
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cesarapires/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ceesarpires/)
 
 <a href="https://wakatime.com/@ae5fe591-dfa5-4f29-b40e-77ff567db247">
 <img src="https://wakatime.com/badge/user/ae5fe591-dfa5-4f29-b40e-77ff567db247.svg" alt="Total time coded since Jan 21 2022" />
@@ -11,7 +13,19 @@
 
 🔧 Minha expertise inclui o desenvolvimento de APIs REST e a criação de componentes e utilização dos mesmos em interfaces Webs. Destaco minha participação em projetos que eram desenvolvidos utilizando arquitetura orientada a eventos, altamente escalável e performática. 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cesarapires)
+<p align="left">
+  <img 
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=cesarapires&show_icons=true"
+  />  
+  <img 
+    width="49%"
+    src="http://github-readme-streak-stats.herokuapp.com?user=cesarapires&border=e4e2e2" />  
+</p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cesarapires/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ceesarpires/)
+<p align="left">
+  <img width="63%" src='https://svgshare.com/i/_Tx.svg' title='' />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarapires&layout=compact" /> 
+</p>
+
+
